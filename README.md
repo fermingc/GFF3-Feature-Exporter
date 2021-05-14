@@ -1,5 +1,5 @@
 # GFF3-Feature-Exporter
-GFF3 feature exporter for Saccharomyces cerevisiae S288C. A user should be able to run the script like this:
+GFF3 feature exporter. A user should be able to run the script like this:
 
 $	export_gff3_feature.py --source_gff=/path/to/some.gff3 --type=gene --attribute=ID --value=YAR003W
 
